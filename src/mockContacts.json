@@ -1,0 +1,22 @@
+{
+  "Contatos Salvos": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@example.com",
+      "phone": "1234-5678"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "phone": "8765-4321"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Souza",
+      "email": "carlos.souza@example.com",
+      "phone": "5678-1234"
+    }
+  ]
+}
